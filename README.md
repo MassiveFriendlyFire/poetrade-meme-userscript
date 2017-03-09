@@ -1,5 +1,5 @@
 # poetrade-meme-userscript
-GreaseMonkey userscript for poe.trade
+GreaseMonkey userscript for poe.trade (https://greasyfork.org/ru/scripts/27995-poe-trade-search-from-everywhere)
 There is Fixed Search button, Scroll to Top button and Scroll to Results button.
 You can see working screenshot below
 
